@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TakeOut Application</string>
+    <string name="login">登录</string>
+    <string name="register_and_login">注册并登录</string>
+    <string name="username">用户名</string>
+    <string name="phone">手机</string>
+    <string name="password">密码</string>
+    <string name="main_page">首页</string>
+    <string name="mine_page">我的</string>
+    <string name="restaurant_manage_page">店铺</string>
+    <string name="restaurant_register_page">注册店铺</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="search_page">搜索</string>
+    <string name="shopping_page">购物</string>
+    <string name="delivery_page">骑手</string>
+    <string name="mine_history_orders_page">历史订单</string>
+    <string name="mine_delivering_orders_page">正在配送订单</string>
+    <string name="order_comment_dialog">订单评价</string>
+    <string name="shoppingcar_dialog">购物车</string>
+</resources>
